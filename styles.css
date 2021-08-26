@@ -106,3 +106,7 @@ strong {
     text-decoration: none;
     margin: 0 18px;
 }
+
+button {
+    cursor: pointer;
+}
